@@ -34,7 +34,7 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 ## Example Request
 
-> Example uses AP region
+> Example uses AP region. This URL fetches the top 10 Radiants of AP region. You can change the region and startIndex to fine tune your results according to your liking
 
 ```
 URL: https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/AP/queue/competitive/act/97b6e739-44cc-ffa7-49ad-398ba502ceb0?startIndex=0&size=10
