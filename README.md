@@ -24,6 +24,7 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 | Params     | Values                               |
 | ---------- | ------------------------------------ |
 | urlCode    | dgxfkpkb4zk5c                        |
+| region     | NA, EU, KR, BR, AP, LATAM            |
 | startIndex | 0 - 499 (for Radiants)               |
 | startIndex | 500+ (for Immortals)                 |
 | size       | 10                                   |
@@ -36,7 +37,7 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 > Example uses AP region
 
 ```
-**URL:** https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/AP/queue/competitive/act/97b6e739-44cc-ffa7-49ad-398ba502ceb0?startIndex=0&size=10
-**Request Type:** GET
-**content-type:** application/json
+URL: https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/AP/queue/competitive/act/97b6e739-44cc-ffa7-49ad-398ba502ceb0?startIndex=0&size=10
+Request Type: GET
+content-type: application/json
 ```
