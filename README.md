@@ -1,4 +1,4 @@
-# [VALORANT](https://playvalorant.com)
+# [VALORANT Leaderboards API](https://playvalorant.com/en-us/leaderboards)
 
 VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and possibly in-game
 
