@@ -31,4 +31,12 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 **Template URL:** `https://{urlCode}.cloudfront.net/leaderboards/affinity/{region}/queue/competitive/act/{apiKey}?startIndex={startIndex}&size={size}`
 
+## Example
+
 > Example uses AP region
+
+```
+**URL:** https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/AP/queue/competitive/act/97b6e739-44cc-ffa7-49ad-398ba502ceb0?startIndex=0&size=10
+**Request Type:** GET
+**content-type:** application/json
+```
