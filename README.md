@@ -44,7 +44,7 @@ content-type: application/json
 
 ## Example Response
 
-> Example uses AP region, the URL is the same as above. I am using [Insomnia REST Client](https://github.com/Kong/insomnia)
+> Example uses AP region, the URL is the same as above. I am using [Insomnia API Client here](https://github.com/Kong/insomnia)
 
 _Top 10 Radiants of AP region_
 ![Top 10 Radiants of AP as of January 21, 2021 2320 IST](img/ap-radiants-top10.png)
