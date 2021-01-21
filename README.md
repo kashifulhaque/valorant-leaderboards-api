@@ -32,7 +32,7 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 **Template URL:** `https://{urlCode}.cloudfront.net/leaderboards/affinity/{region}/queue/competitive/act/{apiKey}?startIndex={startIndex}&size={size}`
 
-## Example
+## Example Request
 
 > Example uses AP region
 
@@ -41,3 +41,9 @@ URL: https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/AP/queue/competi
 Request Type: GET
 content-type: application/json
 ```
+
+## Example Response
+
+> Example uses AP region, the URL is the same as above. I am using [Insomnia REST Client](https://github.com/Kong/insomnia)
+
+![Top 10 Radiants of AP as of January 21, 2021 2320 IST](img/ap-radiants-top10.png)
