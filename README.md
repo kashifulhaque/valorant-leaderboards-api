@@ -48,3 +48,9 @@ content-type: application/json
 
 _Top 10 Radiants of AP region_
 ![Top 10 Radiants of AP as of January 21, 2021 2320 IST](img/ap-radiants-top10.png)
+
+**If the URL gets broken or you face a problem, make sure to create an issue from the Issues tab**
+
+# If someone from Riot Games is reading this...
+
+_Hi there! First of all thanks for creating an amazing game, I love playing it. If this repo reveals some private information which it should not, please contact me at [haque.kashiful7@gmail.com](mailto:haque.kashiful7@gmail.com) or [@notifkash on Twitter](https://twitter.com/notifkash) and I will take this repo down. As far as I am concerned, this repo only shows the public API which is already used by [playvalorant.com](https://playvalorant.com)_
