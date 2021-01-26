@@ -35,6 +35,8 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 | Episode 2 Act IDs (actId) | Values                               |
 | ------------------------- | ------------------------------------ |
 | Act 1 ID                  | 97b6e739-44cc-ffa7-49ad-398ba502ceb0 |
+| Act 2 ID                  | Not started yet!                     |
+| Act 3 ID                  | Not started yet!                     |
 
 ## Example Request
 
