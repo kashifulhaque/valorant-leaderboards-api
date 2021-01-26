@@ -21,16 +21,14 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 ## URL Parameters (Replace the {param} in the URL with the value given in the table below, See Example Request below)
 
-**Template URL:** `https://{urlCode}.cloudfront.net/leaderboards/affinity/{region}/queue/competitive/act/{apiKey}?startIndex={startIndex}&size={size}`
+**Template URL:** `https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/{region}/queue/competitive/act/97b6e739-44cc-ffa7-49ad-398ba502ceb0?startIndex={startIndex}&size={size}`
 
 | Params     | Values                               |
 | ---------- | ------------------------------------ |
-| urlCode    | dgxfkpkb4zk5c                        |
 | region     | NA, EU, KR, BR, AP, LATAM            |
 | startIndex | 0 - 499 (for Radiants)               |
 | startIndex | 500+ (for Immortals)                 |
 | size       | 10                                   |
-| apiKey     | 97b6e739-44cc-ffa7-49ad-398ba502ceb0 |
 
 ## Example Request
 
