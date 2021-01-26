@@ -19,7 +19,8 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 # Getting Started
 
-## URL Parameters (Replace the {param} in the URL with the value given in the table below, See Example Request below)
+## URL Parameters
+## (Replace the {param} in the Template URL with the value given in the table below, See Example Request below)
 
 **Template URL:** `https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/{region}/queue/competitive/act/97b6e739-44cc-ffa7-49ad-398ba502ceb0?startIndex={startIndex}&size={size}`
 
