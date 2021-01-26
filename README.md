@@ -19,7 +19,7 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 # Getting Started
 
-## URL Parameters
+## URL Parameters (Replace the {param} in the URL with the value given in the table below, See Example Request below)
 
 | Params     | Values                               |
 | ---------- | ------------------------------------ |
