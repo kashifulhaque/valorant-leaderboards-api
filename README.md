@@ -59,4 +59,4 @@ _Top 10 Radiants of AP region_
 
 # If someone from Riot Games is reading this...
 
-_Hi there! First of all thanks for creating an amazing game, I love playing it. If this repo reveals some private information which it should not, please contact me at [haque.kashiful7@gmail.com](mailto:haque.kashiful7@gmail.com) or [@notifkash on Twitter](https://twitter.com/notifkash) and I will take this repo down. As far as I am concerned, this repo only shows the public API which is already used by [playvalorant.com Leaderboards](https://playvalorant.com/en-us/leaderboards)_
+_Hi there! First of all thanks for creating an amazing game, I love playing it. If this repo reveals some private information, please contact me at [haque.kashiful7@gmail.com](mailto:haque.kashiful7@gmail.com) or [@notifkash on Twitter](https://twitter.com/notifkash) and I will take this repo down. As far as I am concerned, this repo only shows the public API which is already used by [playvalorant.com Leaderboards](https://playvalorant.com/en-us/leaderboards)_
