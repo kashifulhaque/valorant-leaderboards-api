@@ -38,6 +38,18 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 | Act 2 ID                  | ab57ef51-4e59-da91-cc8d-51a5a2b9b8ff |
 | Act 3 ID                  | 52e9749a-429b-7060-99fe-4595426a0cf7 |
 
+| Episode 3 Act IDs (actId) | Values                               |
+| ------------------------- | ------------------------------------ |
+| Act 1 ID                  | 2a27e5d2-4d30-c9e2-b15a-93b8909a442c |
+| Act 2 ID                  | 4cb622e1-4244-6da3-7276-8daaf1c01be2 |
+| Act 3 ID                  | a16955a5-4ad0-f761-5e9e-389df1c892fb |
+
+| Episode 4 Act IDs (actId) | Values                               |
+| ------------------------- | ------------------------------------ |
+| Act 1 ID                  |                                      |
+| Act 2 ID                  | d929bc38-4ab6-7da4-94f0-ee84f8ac141e |
+| Act 3 ID                  |                                      |
+
 ## Example Request
 
 > Example uses AP region. This URL fetches the top 10 Radiants of AP region in Episode 2 Act 1. You can change the region and startIndex to fine tune your results according to your liking
