@@ -46,9 +46,9 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 | Episode 4 Act IDs (actId) | Values                               |
 | ------------------------- | ------------------------------------ |
-| Act 1 ID                  |                                      |
+| Act 1 ID                  | 573f53ac-41a5-3a7d-d9ce-d6a6298e5704 |
 | Act 2 ID                  | d929bc38-4ab6-7da4-94f0-ee84f8ac141e |
-| Act 3 ID                  |                                      |
+| Act 3 ID                  | 3e47230a-463c-a301-eb7d-67bb60357d4f |
 
 ## Example Request
 
