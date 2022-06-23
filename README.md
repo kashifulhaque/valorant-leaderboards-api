@@ -66,6 +66,28 @@ Request Type: GET
 content-type: application/json
 ```
 
+#### Node.js Example
+
+```js
+const axios = require('axios');
+
+const options = {
+  method: "GET",
+  url: "https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/NA/queue/competitive/act/67e373c7-48f7-b422-641b-079ace30b427",
+  params: { startIndex: "0", size: "10" },
+};
+
+axios
+  .request(options)
+  .then(function (response) {
+    console.log(response.data);
+  })
+  .catch(function (error) {
+    console.error(error);
+  });
+
+```
+
 ## Example Response
 
 > Example uses AP region, the URL is the same as above. I am using [Insomnia API Client here](https://github.com/Kong/insomnia)
