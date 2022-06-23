@@ -2,11 +2,7 @@
 
 VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and possibly in-game
 
-# IMPORTANT NOTE:
-
-- Different regions have different servers, hence each region has a slightly different URL. I will be using the example of APAC (or AP // Asia Pacific) server.
-
-# Table of regions
+# Regions
 
 | Region name   | Region code |
 | ------------- | ----------- |
@@ -19,7 +15,7 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 
 # Getting Started
 
-## URL Parameters
+### URL Parameters
 > Replace the {param} in the Template URL with the value given in the table below, See Example Request below
 
 **Template URL:** `https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/{region}/queue/competitive/act/{actId}?startIndex={startIndex}&size={size}`
@@ -56,7 +52,7 @@ VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and 
 | Act 2 ID                  |                                      |
 | Act 3 ID                  |                                      |
 
-## Example Request
+### Example Request
 
 > Example uses AP region. This URL fetches the top 10 Radiants of AP region in Episode 2 Act 1. You can change the region and startIndex to fine tune your results according to your liking
 
@@ -127,7 +123,7 @@ print(response.text)
 
 #### 
 
-## Example Response
+### Example Response
 
 > Example uses AP region, the URL is the same as above. I am using [Insomnia API Client here](https://github.com/Kong/insomnia)
 
