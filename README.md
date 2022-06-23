@@ -66,7 +66,7 @@ Request Type: GET
 content-type: application/json
 ```
 
-#### Node.js Example
+#### Node.js example
 
 ```js
 const axios = require('axios');
@@ -87,6 +87,45 @@ axios
   });
 
 ```
+
+#### Go example
+
+```go
+package main
+
+import (
+	"fmt"
+	"io/ioutil"
+	"net/http"
+)
+
+func main() {
+	url := "https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/NA/queue/competitive/act/67e373c7-48f7-b422-641b-079ace30b427?startIndex=0&size=10"
+	req, _ := http.NewRequest("GET", url, nil)
+	res, _ := http.DefaultClient.Do(req)
+
+	defer res.Body.Close()
+	body, _ := ioutil.ReadAll(res.Body)
+
+	fmt.Println(string(body))
+}
+```
+
+#### Python3 Example
+
+```python
+import requests
+
+url = "https://dgxfkpkb4zk5c.cloudfront.net/leaderboards/affinity/NA/queue/competitive/act/67e373c7-48f7-b422-641b-079ace30b427"
+querystring = {"startIndex":"0","size":"10"}
+response = requests.request("GET", url, params=querystring)
+
+print(response.text)
+```
+
+
+
+#### 
 
 ## Example Response
 
