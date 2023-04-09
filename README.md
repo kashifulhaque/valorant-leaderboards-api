@@ -1,4 +1,4 @@
-**It seems like Riot knows what's up and they've blocked direct access to the API, so you have to use the [API provided by Riot Games](https://developer.riotgames.com/apis#val-ranked-v1/GET_getLeaderboard)**
+# **It seems like Riot knows what's up and they've blocked direct access to the API, so you have to use the [Riot Games API](https://developer.riotgames.com/apis#val-ranked-v1/GET_getLeaderboard)**
 
 --------------------------------------------------------------------------
 
