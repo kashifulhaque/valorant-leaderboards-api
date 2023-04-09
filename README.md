@@ -1,5 +1,7 @@
-**It seems like Riot knows what's up and they've blocked direct access to the API, so you're only way is to use the [API provided by Riot Games](https://developer.riotgames.com/apis#val-ranked-v1/GET_getLeaderboard)**
+**It seems like Riot knows what's up and they've blocked direct access to the API, so you have to use the [API provided by Riot Games](https://developer.riotgames.com/apis#val-ranked-v1/GET_getLeaderboard)**
+
 --------------------------------------------------------------------------
+
 # [VALORANT Leaderboards API](https://playvalorant.com/en-us/leaderboards)
 
 VALORANT's Leaderboards API used on the [website](https://playvalorant.com) and possibly in-game
